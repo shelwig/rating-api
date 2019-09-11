@@ -1,4 +1,4 @@
-# rating-api
+# rating-api (trigger build)
 
 Container exposes port 8080.
 Required configuration via environment variables:
